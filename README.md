@@ -14,6 +14,7 @@ Estudiante de Ingeniería Informática en la UPC, especializado en desarrollo de
 - Participar activamente en la comunidad tecnológica a través de proyectos Open Source.  
 
 ## Skills
+<span style="font-family: 'Courier New', monospace;"></span>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
