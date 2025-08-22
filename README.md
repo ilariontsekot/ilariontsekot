@@ -1,4 +1,4 @@
-# Ilarion Tsekot – Perfil Profesional
+# Ilarion Tsekot 
 
 Estudiante de Ingeniería Informática en la UPC, especializado en desarrollo de software, ciberseguridad y sistemas distribuidos. Experiencia en entornos Linux, cloud computing y desarrollo web, con enfoque en soluciones eficientes y seguras.
 
