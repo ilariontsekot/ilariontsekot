@@ -14,9 +14,6 @@ Estudiante de Ingeniería Informática en la UPC, especializado en desarrollo de
 - Participar activamente en la comunidad tecnológica a través de proyectos Open Source.  
 
 ## Skills
-## Skills
-
-<span style="font-family: 'Courier New', monospace;">💻💻💻 Mis herramientas:</span>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
@@ -29,7 +26,10 @@ Estudiante de Ingeniería Informática en la UPC, especializado en desarrollo de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40"/>
+
 
 ## Proyectos destacados
 - **Ciberseguridad y Linux | Bash, Ethical Hacking:** Administración de sistemas, gestión de accesos y pruebas de seguridad.  
