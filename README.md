@@ -1,17 +1,17 @@
 # Ilarion Tsekot 
 
-Estudiante de Ingeniería Informática en la UPC, con experiencia en entornos Linux, cloud computing y desarrollo web, con enfoque en soluciones eficientes y seguras.
+Computer Engineering student at UPC, with experience in Linux environments, cloud computing, and web development, focusing on efficient and secure solutions.
 
-## Áreas de interés
-- Programación avanzada y arquitectura de software  
-- Ciberseguridad y administración de sistemas  
-- Inteligencia artificial aplicada y algoritmos heurísticos  
-- DevOps y tecnologías cloud-native  
+## Areas of Interest
+- Advanced programming and software architecture  
+- Cybersecurity and systems administration  
+- Applied artificial intelligence and heuristic algorithms  
+- DevOps and cloud-native technologies  
 
-## Objetivos profesionales
-- Contribuir a proyectos que integren ciberseguridad, inteligencia artificial y sistemas distribuidos.  
-- Ampliar experiencia en DevOps, automatización y plataformas cloud.  
-- Participar activamente en la comunidad tecnológica a través de proyectos Open Source.  
+## Professional Goals
+- Contribute to projects integrating cybersecurity, artificial intelligence, and distributed systems.  
+- Expand experience in DevOps, automation, and cloud platforms.  
+- Actively participate in the tech community through Open Source projects.  
 
 ## Skills
 <span style="font-family: 'Courier New', monospace;"></span>  
@@ -39,9 +39,9 @@ Estudiante de Ingeniería Informática en la UPC, con experiencia en entornos Li
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/>    -->    
 
-## Proyectos destacados
-- **Ciberseguridad y Linux | Bash, Ethical Hacking:** Administración de sistemas, gestión de accesos y pruebas de seguridad.  
-- **IA para Videojuegos | Java, Minimax:** Desarrollo de algoritmos heurísticos y optimización.  
-- **Redes y Sistemas Distribuidos | Python, Linux:** Desarrollo de servidores, comunicación entre nodos y gestión de redes.  
-- **Desarrollo Web | React, MySQL:** Creación de una plataforma de alquiler de vehículos con bases de datos.  
+## Highlighted Projects
+- **Cybersecurity and Linux | Bash, Ethical Hacking:** Systems administration, access management, and security testing.  
+- **AI for Video Games | Java, Minimax:** Development of heuristic algorithms and optimization.  
+- **Networks and Distributed Systems | Python, Linux:** Server development, node communication, and network management.  
+- **Web Development | React, MySQL:** Creation of a vehicle rental platform with databases.  
 
